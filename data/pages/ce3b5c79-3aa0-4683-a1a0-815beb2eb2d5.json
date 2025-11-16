@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-11-16T22:54:30.132Z",
+  "created_by": "jackDeVry",
+  "title": "Suspense Film",
+  "slug": "suspense-film",
+  "updated_at": "2025-11-16T22:54:30.132Z",
+  "updated_by": "jackDeVry",
+  "parent": "ba59dac8-4335-4c01-b607-cb484632d8af",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "3c7fb8cc-16f0-4633-a641-4e2f37198fb1"
+  }
+}

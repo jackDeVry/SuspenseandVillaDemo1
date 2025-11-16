@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-11-16T22:54:30.154Z",
+  "created_by": "jackDeVry",
+  "title": "The Lonely Villa Film",
+  "slug": "the-lonely-villa-film",
+  "updated_at": "2025-11-16T22:54:30.154Z",
+  "updated_by": "jackDeVry",
+  "parent": "ba59dac8-4335-4c01-b607-cb484632d8af",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "ca12682e-29cb-41ba-8b9c-93d4056e8c50"
+  }
+}
