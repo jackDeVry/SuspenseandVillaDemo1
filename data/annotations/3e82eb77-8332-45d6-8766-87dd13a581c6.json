@@ -1,32 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 5,
-      "end_time": 80,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Lots of things "
-            },
-            {
-              "text": "happening",
-              "bold": true,
-              "italic": true
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Description",
-          "category": "Film Analysis"
-        }
-      ],
-      "uuid": "a7114eb7-78e0-4d42-908a-068f84408904"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "3c7fb8cc-16f0-4633-a641-4e2f37198fb1",
   "source_id": "3afce232-2b46-4086-8555-9c2b292c9aa7"
